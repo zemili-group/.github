@@ -5,6 +5,6 @@
 <!--- ![ZeMili-art](https://github.com/zemili-group/.github/assets/65465380/95318606-0996-4b3f-91b5-334f5f6208cb) -->
 <!-- ![LinkedIn Cover Photo](https://github.com/zemili-group/.github/assets/65465380/520d35aa-c853-4ce7-a58e-0ed2e017b6b0) -->
 
-Welcome to ZeMilli Group. We're the cornerstone of innovative software solutions, spearheading the SaaS industry with groundbreaking products designed to meet niche needs. Our expertise lies in harnessing the power of artificial intelligence to disrupt the status quo and drive extraordinary outcomes.
+Welcome to ZeMili Group. We're the cornerstone of innovative software solutions, spearheading the SaaS industry with groundbreaking products designed to meet niche needs. Our expertise lies in harnessing the power of artificial intelligence to disrupt the status quo and drive extraordinary outcomes.
 
 [zemili.com](https://zemili.com)
